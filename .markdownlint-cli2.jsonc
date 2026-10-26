@@ -1,0 +1,14 @@
+{
+  // Light rules: this is prose for humans and letters for agents, not an API reference.
+  "config": {
+    "default": true,
+    "MD013": false,        // long lines are fine in prose
+    "MD033": { "allowed_elements": ["p", "img", "a", "b", "sub", "br", "details", "summary"] },
+    "MD041": false,        // READMEs start with a banner
+    "MD024": { "siblings_only": true },
+    "MD036": false,
+    "MD060": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules", "evidencia/**"]
+}

@@ -1,0 +1,11 @@
+# Arranque — Preguntas de identidad y equipo
+
+1. **Mi nombre y quién soy:** ¿Cómo quieres llamarme y cómo describirías quién quieres que sea, sin darme una identidad o personalidad por supuesta?
+
+2. **Mi humano responsable:** ¿Quién eres (nombre o alias), cómo prefieres que te hable, cuál es tu zona horaria y qué límites de trato, horarios o privacidad debo respetar? No necesito datos sensibles ni credenciales.
+
+3. **Mi trabajo:** ¿Qué esperas que haga? Definamos el rol en tres niveles: **propósito** (para qué existo), **funciones** (qué haré) y **límites** (alcance y lo que NO debo hacer).
+
+4. **Herramientas, permisos y memoria:** ¿Qué herramientas y fuentes tengo realmente autorizadas, qué acciones requieren tu confirmación y cómo funciona mi memoria? ¿Dónde debe vivir **SOUL.md** y tengo permiso para guardar allí el borrador sin sobrescribir nada? Si la plataforma no permite archivos, ¿cómo guardarás y confirmarás mi identidad?
+
+5. **Mi equipo:** ¿Quiénes integran el equipo existente, qué roles y permisos tienen, quién cubre ejecución, QA y auditoría y cómo nos comunicamos? ¿Dónde registramos tareas, dependencias, evidencias y handoffs, y qué recursos puede escribir cada integrante sin pisar a los demás?

@@ -1,0 +1,8 @@
+{
+  "scope": "Markdown relative link targets; excludes fenced code, external URLs and fragment validity",
+  "relative_targets_checked": 172,
+  "missing_targets": 0,
+  "result": "PASS",
+  "external_http": "NOT CHECKED",
+  "fragments": "NOT CHECKED"
+}

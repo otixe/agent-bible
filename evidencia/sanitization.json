@@ -1,0 +1,22 @@
+{
+  "audited_at": "2026-10-26T13:53:46.860411+00:00",
+  "scope": "Public candidate working directory; .git and node_modules excluded from textual scan",
+  "text_and_file_candidates": 89,
+  "privacy_regex_findings": 0,
+  "categories_checked": [
+    "institution_client_names",
+    "private_fleet_names",
+    "aws_account_ids",
+    "aws_resource_arns",
+    "literal_ipv4",
+    "private_host_suffix",
+    "private_home_paths"
+  ],
+  "gitleaks_version": "8.30.1",
+  "gitleaks_dir_exit_code": 0,
+  "gitleaks_findings": 0,
+  "gitleaks_report": [],
+  "git_history": "NOT SCANNED: no .git at this delivery",
+  "visual_review": "NOT PERFORMED",
+  "limitations": "Pattern scans can miss unknown identifiers; this is not independent QA or a future-content guarantee."
+}

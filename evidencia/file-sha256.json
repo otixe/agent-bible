@@ -1,0 +1,248 @@
+{
+  "sealed_at": "2026-10-26T13:56:51.725619+00:00",
+  "scope": [
+    "carta/",
+    "reglas/",
+    "harness/",
+    "evidencia/"
+  ],
+  "excluded_self": "evidencia/file-sha256.json",
+  "independent_qa": "PENDING",
+  "files": [
+    {
+      "path": "carta/en/LETTER-SOLO-AGENT.md",
+      "utf8_or_file_bytes": 8577,
+      "sha256": "889bff1b86dc846349903b84d1e4620d77ccea2be6039c366e91ff8c6b2a4291"
+    },
+    {
+      "path": "carta/en/LETTER-TEAM-LEAD.md",
+      "utf8_or_file_bytes": 13227,
+      "sha256": "d18e2435b565d6b1199b825bea37dff7f92a1454ba91864d548b3aba4c06bfca"
+    },
+    {
+      "path": "carta/es/CARTA-AGENTE-SOLO.md",
+      "utf8_or_file_bytes": 9115,
+      "sha256": "2cdb9c8d1a14507a6a7441c126410df1c8d2d8fa89501d645aeb663a1d7a77ff"
+    },
+    {
+      "path": "carta/es/CARTA-LIDER-DE-EQUIPO.md",
+      "utf8_or_file_bytes": 13721,
+      "sha256": "8779e9b0a21b7a63851a27a1922aedfa449226d60beb75c6a32ffa2d8abf4731"
+    },
+    {
+      "path": "reglas/en/GOLDEN-RULES.md",
+      "utf8_or_file_bytes": 2963,
+      "sha256": "2ee5b097115c1a8cda3b538916626945c3d4df559554a8463b8ea90c6c8e2771"
+    },
+    {
+      "path": "reglas/es/REGLAS-DE-ORO.md",
+      "utf8_or_file_bytes": 3028,
+      "sha256": "7b3d24bfaebe5b5cfd7a564ffc35c005c5d1c0e1aee468d34fad1f12eacacb3e"
+    },
+    {
+      "path": "harness/en/HARNESS-OFFICE.md",
+      "utf8_or_file_bytes": 7145,
+      "sha256": "68f9bd9fa5cc1f2380ec0936e04fc410ac8d0935fff368640324e28750f915c7"
+    },
+    {
+      "path": "harness/en/HARNESS-SOLO-AGENT.md",
+      "utf8_or_file_bytes": 2932,
+      "sha256": "46d7ead95440546f552ffc31ec5c49d465e05ea0e9eb896f8345850d405056ad"
+    },
+    {
+      "path": "harness/es/HARNESS-AGENTE-SOLO.md",
+      "utf8_or_file_bytes": 3230,
+      "sha256": "3d6db68dc589bc61776c3266053f38ac716e3fac362db521e6ce56e44859bc6b"
+    },
+    {
+      "path": "harness/es/HARNESS-OFICINA.md",
+      "utf8_or_file_bytes": 7706,
+      "sha256": "7cd9c6680a64b267d5e191f0ea9cd4cd39bce58764495af593885c2e074f8bef"
+    },
+    {
+      "path": "evidencia/README.md",
+      "utf8_or_file_bytes": 6411,
+      "sha256": "b98a781e09af863d6e34c2726f50af670084d34121f0f8914455c8264a62ba7d"
+    },
+    {
+      "path": "evidencia/SOURCE-MAP.md",
+      "utf8_or_file_bytes": 4180,
+      "sha256": "7b1a0ffdf0a120bb171fde8b15830ecbf8b62758f3e7be9e13d835ac7b0f5cb1"
+    },
+    {
+      "path": "evidencia/en-leader/before-explicit-human-name/first-response.txt",
+      "utf8_or_file_bytes": 1313,
+      "sha256": "c65f7545ab520d8ca3488a673533e0fd846d24f196222422599fe19f1e862b9c"
+    },
+    {
+      "path": "evidencia/en-leader/before-explicit-human-name/result.json",
+      "utf8_or_file_bytes": 1874,
+      "sha256": "d944d1f5a5504751ebed51e87cde32040e0127e1f4dbd636dee5047e68280992"
+    },
+    {
+      "path": "evidencia/en-leader/before-explicit-human-name/transcript.md",
+      "utf8_or_file_bytes": 15025,
+      "sha256": "90563c229229f20a9cccbd82594614f1c6e08324f189c3efcce447f06b525129"
+    },
+    {
+      "path": "evidencia/en-leader/first-response.txt",
+      "utf8_or_file_bytes": 1254,
+      "sha256": "8e0f72b17af81ff5b23a31a60d02b5c9b05ebb9a19b7d0a2b47c1ccae891373e"
+    },
+    {
+      "path": "evidencia/en-leader/result.json",
+      "utf8_or_file_bytes": 1859,
+      "sha256": "ae44b087705f2df53a706745fb7ad56be0f05f9c1f221e26462d6dac210d2783"
+    },
+    {
+      "path": "evidencia/en-leader/transcript.md",
+      "utf8_or_file_bytes": 14982,
+      "sha256": "82019d2ab11bd795d7f5368be735967e703dc8a2bc0f2a9527bcd70c04ddd5d1"
+    },
+    {
+      "path": "evidencia/en-solo/before-explicit-human-name/first-response.txt",
+      "utf8_or_file_bytes": 939,
+      "sha256": "2936f32f718b8f9e0f3fcf9de03f49304faeec48b66b6ea37499fb23c6bd66a6"
+    },
+    {
+      "path": "evidencia/en-solo/before-explicit-human-name/result.json",
+      "utf8_or_file_bytes": 1868,
+      "sha256": "33f9194d8fe87b954689f5c422f4e28963c9243b53b793542c86ee1d3f9bc4a8"
+    },
+    {
+      "path": "evidencia/en-solo/before-explicit-human-name/transcript.md",
+      "utf8_or_file_bytes": 10002,
+      "sha256": "78a33f4f64a36a6d60a168236294e969b29f37364a61f3441f88e90da830b0bf"
+    },
+    {
+      "path": "evidencia/en-solo/first-response.txt",
+      "utf8_or_file_bytes": 955,
+      "sha256": "f26e11ee562c502d84aaa738882db8b76c762802a68eee1567597a55e5992457"
+    },
+    {
+      "path": "evidencia/en-solo/result.json",
+      "utf8_or_file_bytes": 1854,
+      "sha256": "8d9eccc8a5ea5e114bc74430a18394bc6629ecedbd3b64a46e668cfdc61de7ad"
+    },
+    {
+      "path": "evidencia/en-solo/transcript.md",
+      "utf8_or_file_bytes": 10034,
+      "sha256": "60fd0dde2c137b810d65a1aeeadd8eafb9704353cec6d911feb582752f63cb76"
+    },
+    {
+      "path": "evidencia/es-leader/before-explicit-human-name/first-response.txt",
+      "utf8_or_file_bytes": 1314,
+      "sha256": "6638ffa82d2ecd62832b217e97c9df0b41219b07a690ae08ece75c07d2b076e4"
+    },
+    {
+      "path": "evidencia/es-leader/before-explicit-human-name/result.json",
+      "utf8_or_file_bytes": 1879,
+      "sha256": "d2f6fe7f90d1084760889f0e05b2bbc2b6ca2d681745135da3e962106d2065eb"
+    },
+    {
+      "path": "evidencia/es-leader/before-explicit-human-name/transcript.md",
+      "utf8_or_file_bytes": 15524,
+      "sha256": "ec9145eb8bc0920432b0f13e3009da76d0922a1df544d01ae877e3e181acea00"
+    },
+    {
+      "path": "evidencia/es-leader/before-format/first-response.txt",
+      "utf8_or_file_bytes": 1314,
+      "sha256": "6638ffa82d2ecd62832b217e97c9df0b41219b07a690ae08ece75c07d2b076e4"
+    },
+    {
+      "path": "evidencia/es-leader/before-format/result.json",
+      "utf8_or_file_bytes": 1878,
+      "sha256": "64419a60aaf4c383602c3fda2900f8595caf4aecc9e536e8cca49ab748f77a67"
+    },
+    {
+      "path": "evidencia/es-leader/before-format/transcript.md",
+      "utf8_or_file_bytes": 15525,
+      "sha256": "a0af868f269a3dde8ce05c6df2bba8ac4d1c96a3aaaa1305d312838918ba14f2"
+    },
+    {
+      "path": "evidencia/es-leader/first-response.txt",
+      "utf8_or_file_bytes": 1270,
+      "sha256": "840c50d26fff16fe5911cebb47a7ae560319c7e0db771835c6e3abd015ec8d4f"
+    },
+    {
+      "path": "evidencia/es-leader/result.json",
+      "utf8_or_file_bytes": 1864,
+      "sha256": "34f9c5b14e27837759f62b0f02e79246c6e58c5346e52c2f52289fd5cbc6e6e5"
+    },
+    {
+      "path": "evidencia/es-leader/transcript.md",
+      "utf8_or_file_bytes": 15497,
+      "sha256": "2026a7cddc517e819d649e7cd2948cb0a1294a4e25e7772be783eeaa7273dcfa"
+    },
+    {
+      "path": "evidencia/es-solo/before-explicit-human-name/first-response.txt",
+      "utf8_or_file_bytes": 944,
+      "sha256": "848d5ebd07c1a1f782be7ea06a1f9940b1df7cfec3b3550d41afdee64e741bea"
+    },
+    {
+      "path": "evidencia/es-solo/before-explicit-human-name/result.json",
+      "utf8_or_file_bytes": 1867,
+      "sha256": "3be30f2540647dae59d653c02c0f90ac6a12fc05a1ec15d9486ce38669d91503"
+    },
+    {
+      "path": "evidencia/es-solo/before-explicit-human-name/transcript.md",
+      "utf8_or_file_bytes": 10544,
+      "sha256": "5b156c424683e96e2be5863f072ceb8293e7db9161951acc1ff624eb3a9a1a4a"
+    },
+    {
+      "path": "evidencia/es-solo/first-response.txt",
+      "utf8_or_file_bytes": 961,
+      "sha256": "a8f71076471fa03c882657ef57aad907db97e4efa54f49a5eb8745abe2aff25e"
+    },
+    {
+      "path": "evidencia/es-solo/result.json",
+      "utf8_or_file_bytes": 1854,
+      "sha256": "9841aadbe5ce48c0dec68c361ca1463e076d51bd3a6a5120a2ea8fa5fcb03b0e"
+    },
+    {
+      "path": "evidencia/es-solo/transcript.md",
+      "utf8_or_file_bytes": 10578,
+      "sha256": "b19ed4978a0c4bd2223853c1438e134308c10d5827d9aea79b08d161800c0a48"
+    },
+    {
+      "path": "evidencia/integrity.json",
+      "utf8_or_file_bytes": 1277,
+      "sha256": "8604ea59c0bb98d957115bc9af98ef9cf5ebeeeb3b4ca7d15cad56b6a60f89a5"
+    },
+    {
+      "path": "evidencia/local-links.json",
+      "utf8_or_file_bytes": 250,
+      "sha256": "5689e4d08717c321677f445a7ef8776f299cd4df7d78e6eda22ace8b3f5e2071"
+    },
+    {
+      "path": "evidencia/markdownlint.txt",
+      "utf8_or_file_bytes": 437,
+      "sha256": "d991a02811a1d135579c6f77d6b922751991fdeef9ef9fe8743655a6d863c71c"
+    },
+    {
+      "path": "evidencia/producer-review.json",
+      "utf8_or_file_bytes": 3351,
+      "sha256": "e8f6e41af9f27ad895669a8d52a2ed6ea41d387d1c8e0eeb373153cd322a16c2"
+    },
+    {
+      "path": "evidencia/run_clean_boot.py",
+      "utf8_or_file_bytes": 8132,
+      "sha256": "cf2b3dc5c0c0a994837e0179b26583ae9b2b1fff3b2826c5fc5a9ca9fcda7db5"
+    },
+    {
+      "path": "evidencia/sanitization.json",
+      "utf8_or_file_bytes": 759,
+      "sha256": "b98e08bd2ffdf42aa1f7299849a2c090dd3789589f2eef59639fddecb07b2dc5"
+    },
+    {
+      "path": "evidencia/sizes.json",
+      "utf8_or_file_bytes": 2364,
+      "sha256": "499383a2f7c18c1a1b7a8e9a9c496ffaac1e6c6f284c50421cda40502cc4bf22"
+    },
+    {
+      "path": "evidencia/verify_artifacts.py",
+      "utf8_or_file_bytes": 4783,
+      "sha256": "7d75bf57974544b211182ebda3f2bc81dac19f739d4da482a9401f3d832df5ae"
+    }
+  ]
+}

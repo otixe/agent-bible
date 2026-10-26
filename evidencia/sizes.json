@@ -1,0 +1,67 @@
+{
+  "encoding": "UTF-8",
+  "line_endings": "LF",
+  "characters": "Unicode code points, including newlines; NOT tokens",
+  "files": [
+    {
+      "path": "carta/en/LETTER-SOLO-AGENT.md",
+      "unicode_characters_including_newlines": 8543,
+      "utf8_bytes": 8577,
+      "sha256": "889bff1b86dc846349903b84d1e4620d77ccea2be6039c366e91ff8c6b2a4291"
+    },
+    {
+      "path": "carta/en/LETTER-TEAM-LEAD.md",
+      "unicode_characters_including_newlines": 13201,
+      "utf8_bytes": 13227,
+      "sha256": "d18e2435b565d6b1199b825bea37dff7f92a1454ba91864d548b3aba4c06bfca"
+    },
+    {
+      "path": "carta/es/CARTA-AGENTE-SOLO.md",
+      "unicode_characters_including_newlines": 8959,
+      "utf8_bytes": 9115,
+      "sha256": "2cdb9c8d1a14507a6a7441c126410df1c8d2d8fa89501d645aeb663a1d7a77ff"
+    },
+    {
+      "path": "carta/es/CARTA-LIDER-DE-EQUIPO.md",
+      "unicode_characters_including_newlines": 13510,
+      "utf8_bytes": 13721,
+      "sha256": "8779e9b0a21b7a63851a27a1922aedfa449226d60beb75c6a32ffa2d8abf4731"
+    },
+    {
+      "path": "reglas/en/GOLDEN-RULES.md",
+      "unicode_characters_including_newlines": 2949,
+      "utf8_bytes": 2963,
+      "sha256": "2ee5b097115c1a8cda3b538916626945c3d4df559554a8463b8ea90c6c8e2771"
+    },
+    {
+      "path": "reglas/es/REGLAS-DE-ORO.md",
+      "unicode_characters_including_newlines": 2983,
+      "utf8_bytes": 3028,
+      "sha256": "7b3d24bfaebe5b5cfd7a564ffc35c005c5d1c0e1aee468d34fad1f12eacacb3e"
+    },
+    {
+      "path": "harness/en/HARNESS-OFFICE.md",
+      "unicode_characters_including_newlines": 7133,
+      "utf8_bytes": 7145,
+      "sha256": "68f9bd9fa5cc1f2380ec0936e04fc410ac8d0935fff368640324e28750f915c7"
+    },
+    {
+      "path": "harness/en/HARNESS-SOLO-AGENT.md",
+      "unicode_characters_including_newlines": 2912,
+      "utf8_bytes": 2932,
+      "sha256": "46d7ead95440546f552ffc31ec5c49d465e05ea0e9eb896f8345850d405056ad"
+    },
+    {
+      "path": "harness/es/HARNESS-AGENTE-SOLO.md",
+      "unicode_characters_including_newlines": 3170,
+      "utf8_bytes": 3230,
+      "sha256": "3d6db68dc589bc61776c3266053f38ac716e3fac362db521e6ce56e44859bc6b"
+    },
+    {
+      "path": "harness/es/HARNESS-OFICINA.md",
+      "unicode_characters_including_newlines": 7597,
+      "utf8_bytes": 7706,
+      "sha256": "7cd9c6680a64b267d5e191f0ea9cd4cd39bce58764495af593885c2e074f8bef"
+    }
+  ]
+}

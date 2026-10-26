@@ -1,0 +1,72 @@
+{
+  "review": "PASS producer semantic inspection of each full first reply",
+  "independent": false,
+  "independent_qa": "PENDING",
+  "model_inference_requests_total": 9,
+  "current_letter_tests": 4,
+  "archived_earlier_versions": 5,
+  "changes_since_initial_tests": [
+    "Remove one extra blank line in ES leader to satisfy MD012",
+    "Make the human name/alias explicit in question 2 in all four letters"
+  ],
+  "verifier_note": "Early structural checks incorrectly rejected neutral protocol/question headings or a copied introductory instruction. Original responses were inspected and reevaluated unchanged; no response was replaced or model retry used to conceal that verifier issue. Final exact letters were each tested afresh after edits.",
+  "scope": "First response only. No second-turn identity-file creation, confirmation, tool permissions or platform integration tested.",
+  "cases": [
+    {
+      "case": "es-solo",
+      "letter_sha256": "2cdb9c8d1a14507a6a7441c126410df1c8d2d8fa89501d645aeb663a1d7a77ff",
+      "response_sha256": "a8f71076471fa03c882657ef57aad907db97e4efa54f49a5eb8745abe2aff25e",
+      "questions": 4,
+      "asks_all_four_startup_subjects": true,
+      "asks_human_name_or_alias": true,
+      "asks_soul_location_and_write_permission": true,
+      "team_question_only_for_leader": true,
+      "no_invented_identity_or_role": true,
+      "no_agent_creation_or_work_started": true,
+      "no_tool_calls": true,
+      "neutral_question_heading_not_role_assumption": true
+    },
+    {
+      "case": "es-leader",
+      "letter_sha256": "8779e9b0a21b7a63851a27a1922aedfa449226d60beb75c6a32ffa2d8abf4731",
+      "response_sha256": "840c50d26fff16fe5911cebb47a7ae560319c7e0db771835c6e3abd015ec8d4f",
+      "questions": 5,
+      "asks_all_four_startup_subjects": true,
+      "asks_human_name_or_alias": true,
+      "asks_soul_location_and_write_permission": true,
+      "team_question_only_for_leader": true,
+      "no_invented_identity_or_role": true,
+      "no_agent_creation_or_work_started": true,
+      "no_tool_calls": true,
+      "neutral_question_heading_not_role_assumption": true
+    },
+    {
+      "case": "en-solo",
+      "letter_sha256": "889bff1b86dc846349903b84d1e4620d77ccea2be6039c366e91ff8c6b2a4291",
+      "response_sha256": "f26e11ee562c502d84aaa738882db8b76c762802a68eee1567597a55e5992457",
+      "questions": 4,
+      "asks_all_four_startup_subjects": true,
+      "asks_human_name_or_alias": true,
+      "asks_soul_location_and_write_permission": true,
+      "team_question_only_for_leader": true,
+      "no_invented_identity_or_role": true,
+      "no_agent_creation_or_work_started": true,
+      "no_tool_calls": true,
+      "neutral_question_heading_not_role_assumption": true
+    },
+    {
+      "case": "en-leader",
+      "letter_sha256": "d18e2435b565d6b1199b825bea37dff7f92a1454ba91864d548b3aba4c06bfca",
+      "response_sha256": "8e0f72b17af81ff5b23a31a60d02b5c9b05ebb9a19b7d0a2b47c1ccae891373e",
+      "questions": 5,
+      "asks_all_four_startup_subjects": true,
+      "asks_human_name_or_alias": true,
+      "asks_soul_location_and_write_permission": true,
+      "team_question_only_for_leader": true,
+      "no_invented_identity_or_role": true,
+      "no_agent_creation_or_work_started": true,
+      "no_tool_calls": true,
+      "neutral_question_heading_not_role_assumption": true
+    }
+  ]
+}

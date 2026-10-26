@@ -1,0 +1,36 @@
+{
+  "current_cases": [
+    {
+      "case": "es-solo",
+      "letter_sha256": "2cdb9c8d1a14507a6a7441c126410df1c8d2d8fa89501d645aeb663a1d7a77ff",
+      "response_sha256": "a8f71076471fa03c882657ef57aad907db97e4efa54f49a5eb8745abe2aff25e",
+      "question_groups": 4
+    },
+    {
+      "case": "es-leader",
+      "letter_sha256": "8779e9b0a21b7a63851a27a1922aedfa449226d60beb75c6a32ffa2d8abf4731",
+      "response_sha256": "840c50d26fff16fe5911cebb47a7ae560319c7e0db771835c6e3abd015ec8d4f",
+      "question_groups": 5
+    },
+    {
+      "case": "en-solo",
+      "letter_sha256": "889bff1b86dc846349903b84d1e4620d77ccea2be6039c366e91ff8c6b2a4291",
+      "response_sha256": "f26e11ee562c502d84aaa738882db8b76c762802a68eee1567597a55e5992457",
+      "question_groups": 4
+    },
+    {
+      "case": "en-leader",
+      "letter_sha256": "d18e2435b565d6b1199b825bea37dff7f92a1454ba91864d548b3aba4c06bfca",
+      "response_sha256": "8e0f72b17af81ff5b23a31a60d02b5c9b05ebb9a19b7d0a2b47c1ccae891373e",
+      "question_groups": 5
+    }
+  ],
+  "integrity_and_structure": "PASS",
+  "negative_controls_rejected": [
+    "changed input",
+    "assumed identity",
+    "missing question",
+    "wrong leader coverage"
+  ],
+  "limitations": "Not independent QA; no safety or translation guarantee."
+}

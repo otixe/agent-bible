@@ -1,0 +1,5 @@
+markdownlint-cli2 v0.19.0 (markdownlint v0.39.0)
+Finding: carta/en/LETTER-SOLO-AGENT.md carta/en/LETTER-TEAM-LEAD.md carta/es/CARTA-AGENTE-SOLO.md carta/es/CARTA-LIDER-DE-EQUIPO.md harness/en/HARNESS-OFFICE.md harness/en/HARNESS-SOLO-AGENT.md harness/es/HARNESS-AGENTE-SOLO.md harness/es/HARNESS-OFICINA.md reglas/en/GOLDEN-RULES.md reglas/es/REGLAS-DE-ORO.md **/*.md !node_modules !evidencia/**
+Linting: 48 file(s)
+Summary: 0 error(s)
+

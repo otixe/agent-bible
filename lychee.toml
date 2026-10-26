@@ -3,6 +3,5 @@ no_progress = true
 accept = ["200", "204", "301", "302", "403", "429"]
 max_retries = 2
 timeout = 20
-exclude_mail = true
 # Repos and Pages that exist only after the first publication:
 exclude = ['^https://github\.com/otixe/agent-bible', '^https://otixe\.github\.io/']
